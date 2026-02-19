@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "accessToken": "Bearer_mikhail_secret_token_abc123",
+  "refreshToken": "mikhail_refresh_secret_789xyz",
+  "user": {
+    "email": "mikhail_dev@yandex.kz",
+    "name": "Mikhail"
+  }
+}
